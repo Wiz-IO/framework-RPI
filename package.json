@@ -1,0 +1,7 @@
+{
+    "name"        : "framework-RPI",
+    "description" : "PlatformIO Framework for Raspberry Pi",
+    "url"         : "https://github.com/Wiz-IO/framework-RPI",
+    "system"      : "*",
+    "version"     : "1.0.0"
+}
